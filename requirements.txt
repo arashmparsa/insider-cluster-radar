@@ -1,0 +1,5 @@
+psycopg[binary]>=3.2
+pandas>=2.2
+numpy>=1.26
+yfinance>=0.2.66
+pytest>=8
